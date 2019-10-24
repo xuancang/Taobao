@@ -4,3 +4,4 @@
 <h2>当前支持功能：</h2>
 <li>自动完成浏览店铺任务
 <li>自动完成浏览天猫会场任务（可能不完善，因为任务会随机变化）
+<a href=https://github.com/BigBubbleGum/auto_miaomiao_bi.git>此项目经修改更新于此处，感谢原作者</a>
